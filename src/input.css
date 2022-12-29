@@ -19,4 +19,7 @@
     img {
         @apply rounded-full w-[30px] h-[30px];
     }
+    p,span {
+        font-size: 13px;
+    }
 }
